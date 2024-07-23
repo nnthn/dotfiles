@@ -1,0 +1,5 @@
+preload = /home/nnthn/assets/wallpapers/girl.jpg
+
+wallpaper = ,contain:/home/nnthn/assets/wallpapers/girl.jpg
+
+splash = true
