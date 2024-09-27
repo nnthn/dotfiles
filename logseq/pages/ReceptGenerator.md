@@ -1,0 +1,3 @@
+- This is an app that is used to automate  recept generation
+- A csv file holds the list of items to be printed
+- #TODO update this app to enhance UX

@@ -1,0 +1,16 @@
+- Important concepts and methods to be followed on UIUX designing.
+-
+- Steps
+	- Sketching
+		- Ideas
+		- Wireframes
+		- Components
+	- Sketching user flow
+		- Sketching screen flow
+		- User Flow
+	- Sitemaps
+	- Prototyping
+- Design Theory and fundamentals
+	- Grids
+		- Columns, Gutters and Margins
+		-

@@ -1,0 +1,60 @@
+- Tables
+	- students
+		- id
+		- semister (int)
+		- firstName (varchar)
+		- lastName (varchar)
+		- email (email)
+		- branch (varchar)
+		- phoneNumber (int)
+		- address (varchar)
+	- test1
+		- id
+		- studentId
+		- subject (varchar)
+		- totalMark (int)
+		- co1 (int)
+		- co2 (int)
+	- test1
+		- id
+		- studentId
+		- subject (varchar)
+		- totalMark (int)
+		- co3 (int)
+		- co4 (int)
+	- Users
+		- id (int)
+		- userName (varchar)
+		- password (varchar)
+		- adminRole (tinyint)
+	- studentState
+		- id (int)
+		- student_id (int)
+		- date (date)
+		- present (tinyint)
+	- verfictation
+		- id (int)
+		- studentId (int)
+		- verified (boolean)
+	- studentAcademics
+		- id (int)
+		- studentId (int)
+		- totalMark (int)
+		- sgpa (float)
+		- semester (int)
+	- studentNonAcademics
+		- id (int)
+		- studentId (int)
+		- program (varchar)
+		- organization (varchar)
+		- duration (int)
+- Endpoints
+	- /students (get)
+	- /addmarks1  post
+	- /addmarks2  post
+	- /verification post
+	- /verifiedstudents post
+	- /addStudent post
+	- /students get
+	- /user/details get
+-

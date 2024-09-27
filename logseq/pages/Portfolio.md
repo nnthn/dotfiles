@@ -1,0 +1,13 @@
+- My portfolio : https://nnthn.github.io/portfolio
+- TODO Blogs
+	- Have to create  and design the components for the blogs.
+	- Need to find contents for the blogs.
+		- "How to learn Web Dev"
+			- Add a small introduction.
+			- Provide a small idea on how to do the stuffs.
+			- Provide links to the resources.
+		- "Frequently needed stylings --things to keep in mind"
+			- This tells about the styling to be done using css.
+			- Things like how to center a div etc...
+			- Common conventions and other important things that are to be remembered are to be added here.
+-
