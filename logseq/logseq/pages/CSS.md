@@ -1,0 +1,5 @@
+- Inline and block element { no width, with width}\
+- #TODO check out resetcss.com
+- Line height and font size : line height can be relative to the font size if I am using the percent or decimal value for line height.
+- flex: grow shrink basis;
+-

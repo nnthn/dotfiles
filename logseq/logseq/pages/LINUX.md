@@ -1,0 +1,10 @@
+- terminal commands
+	- ctrl + r : reverse serarch
+	- !! : previous command
+	- mkfifo to name a pipe
+	- pushd to push directory into directory stack
+	- ps -e shows all process H : shows the hericery
+	- top : used for process
+	- pidof : gives the process id of the application
+	- crontab: to do something based on when you want to do it
+	- systemctl list-unit-files -at service : systemctl active status
