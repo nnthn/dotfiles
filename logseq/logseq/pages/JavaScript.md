@@ -1,0 +1,40 @@
+- Data types
+	- numbers
+	- string
+	- boolean
+	- objects
+	- arrays {essentially its also objects}
+- qureryselector works like the css selector
+- jquery >> library for js that has small programs.
+- Frameworks >> angular, react...
+- Node js >> server side programming lanugage.
+- variables  var
+- datatypes ||
+- js is weekly typed lan.
+- string and number can be used to do arithmetic calculations, but the string should only contain number and it works some how.
+- NaN >> it tells one or more variables contain a string
+- conditions >> if, if else, if else ladder, while, do while
+- == its not strict equality  "5" == 5 returns true.
+- === strict equality.
+- !==  strict equality (not)
+- ternary operator instead of if else
+	- a ( condition) b ? {match} : {no match};
+- array =[] {can have separate datatype}.
+- arrays are objects
+	- shift remove the first item
+	- pop remove the last item
+	- push adds to array
+	- slice returns a new array
+	- indexOf search for a specific index
+	- join takes the array elements and separate it with ',' or any parameter in the function call
+- objects have properties and   methods (functions)
+- var scope based
+- const constant variable
+- log block variable
+- closure : a function inside a function that uses outside variables to do the function.
+- querySelector : returns the first instance
+- querySelectorAll : returns a list of matches
+- we can use  querySelector tp chose multiple elements separated with a coma
+- [ developer.mozzila.org]
+- can add or remove attributes as well
+-
