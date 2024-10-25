@@ -25,4 +25,6 @@
 - SHELL
 	- env and shell
 	- bash startup files
-	-
+	- pushd , popd
+	- mkfifo pipe_name
+	- what is tee???
