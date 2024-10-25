@@ -19,6 +19,7 @@
     "wireplumber",
     "backlight",
     "clock",
+    "battery",
     "temperature"
   ],
   "hyprland/workspaces": {
@@ -73,6 +74,26 @@
     "on-scroll-down": "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.05-",
     "smooth-scrolling-threshold": 1
   },
+   "battery": {
+        "rotate": 270,
+        "states": {
+          "good": 90,
+          "warning": 30,
+          "critical": 15,
+        },
+        "format": "{icon}",
+        "format-charging": "<div class='charging'>{icon}</div>",
+        "format-full": "<span color='#82A55F'><b>{icon}</b></span>",
+        "format-icons": [
+          "󰁻",
+          "󰁼",
+          "󰁾",
+          "󰂀",
+          "󰂂",
+          "󰁹",
+        ],
+        "tooltip-format": "{timeTo} {capacity} % | {power} W",
+      },
   "network": {
     "format": "{icon}",
     "format-icons": {

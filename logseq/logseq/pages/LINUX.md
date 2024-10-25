@@ -8,3 +8,21 @@
 	- pidof : gives the process id of the application
 	- crontab: to do something based on when you want to do it
 	- systemctl list-unit-files -at service : systemctl active status
+	- ctrl + u , ctrl + k
+	- cd - : takes us to the previous folder
+	- user group other rwx rwx rwx
+	- 4 2 1
+	- tail -n5 last five lines
+	- grep for searching
+	- sed,awk {look abt it}
+	- tar and zip
+	- " > "  redirect to a specified file or some other place
+	- > this can be a little dangerous
+	- " >> " append to a file
+	- > use this carefully
+	- PATH
+	-
+- SHELL
+	- env and shell
+	- bash startup files
+	-
